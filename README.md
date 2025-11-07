@@ -41,6 +41,7 @@ The project bridges **classical statistical analysis** and **modern neural forec
 
 **Dataset Name:** `household_power_consumption.csv`
 **Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)
+**DataSet:**[Data Set](https://docs.google.com/spreadsheets/d/1Ft8c5_By7FoU-8CpgzIefMVfHIgRUef2SQcyjBaH_90/edit?usp=sharing)
 
 | Column                | Description                                                                  |
 | :-------------------- | :--------------------------------------------------------------------------- |
