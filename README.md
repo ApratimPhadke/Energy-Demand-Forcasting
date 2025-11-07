@@ -202,13 +202,13 @@ These plots transform the model into an **interpretable forecasting tool**, cruc
 ### Run the Project
 
 ```bash
-python untitled3.py
+python Energy_Forcasting.py
 ```
 
 or in Jupyter/Colab:
 
 ```python
-!python untitled3.py
+!python Energy_Forcasting.py
 ```
 
 ---
@@ -217,7 +217,7 @@ or in Jupyter/Colab:
 
 ```
 ├── household_power_consumption.csv   # Dataset
-├── untitled3.py                      # Main project file
+├── Energy_Forcasting.py              # Main project file
 ├── README.md                         # Project documentation
 └── requirements.txt                  # Dependencies (optional)
 ```
